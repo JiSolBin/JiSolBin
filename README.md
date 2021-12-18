@@ -1,3 +1,5 @@
+<br><br>
+
 <p align="center">
   <a href="https://pinevienna.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Awesome Lists&logoColor=white" width="60" height="25"//>
@@ -22,8 +24,5 @@
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white" width="80" height="25"/>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white" width="90" height="25"/>
 </p>
-  
+
 <br>
-
-
-　　　　　　　　　　　　　　　![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiSolBin&show_icons=true&theme=buefy)
