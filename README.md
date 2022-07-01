@@ -1,9 +1,9 @@
 <br><br>
 
 <p align="center">
-  <a href="https://pinevienna.tistory.com/" target="_blank">
+  <!-- <a href="https://pinevienna.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=SouthwestAirlines&logoColor=white" width="70" height="25"//>
-  </a>
+  </a> -->
   <a href="https://www.instagram.com/ji.s.b/" target="_blank">
     <img src="https://img.shields.io/badge/ji.s.b-E4405F?style=flat&logo=Instagram&logoColor=white" width="70" height="25"//>
   </a>
